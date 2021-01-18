@@ -9,6 +9,7 @@ Golang安全资源合集
 - [The Little Go Book](https://www.openmymind.net/assets/go/go.pdf) - Google Go语言编程书
 - [book](https://github.com/qyuhen/book) - 雨痕Go 学习笔记
 - [Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go/) - Golang黑客编程
+- [Go 官方tour 中文版](https://tour.go-zh.org/welcome/1) - Chinese tour
 
 ## 库
 
