@@ -6,8 +6,6 @@ Golang安全资源合集
 
 - [The Go Programming Language](https://golang.org/doc/) - Go语言官方文档
 - [go-internals](https://github.com/teh-cmc/go-internals) - 深入理解Go语言
-- [The Little Go Book](https://www.openmymind.net/assets/go/go.pdf) - Google Go语言编程书
-- [book](https://github.com/qyuhen/book) - 雨痕Go 学习笔记
 - [Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go/) - Golang黑客编程
 - [Go 官方tour 中文版](https://tour.go-zh.org/welcome/1) - Chinese tour
 
